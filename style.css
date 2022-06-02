@@ -11,20 +11,21 @@ body{
 margin: 30px;
     display: flex;
     flex-direction: column;
-    height: 60vh;
+    height: 530px;
     align-items: center;
     justify-content: center;
     background-color:  hsl(0, 0%, 100%) ;
     border-radius:15px;
-    padding: 20px;
-    width: 220px;
+    padding: 18px;
+    width: 348px;
     
 }
 #image{
-    height: 225px;
-    width: 215px;
-    border-radius: 15px;
-    padding: 0px, 5px, 0px;
+    height: 340px;
+    width: 318px;
+    border-radius: 18px;
+    padding: 0px, 18px, 18px;
+    margin: 18px;
 }
 #par{
     color: hsl(218, 44%, 22%);
@@ -37,4 +38,5 @@ p{
     margin-top: 10px;
     font-weight: 400;
     text-align: center;
+    width: auto;
 }
